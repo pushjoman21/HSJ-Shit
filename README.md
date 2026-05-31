@@ -14,7 +14,7 @@ A small collection of free research material related to HSJ analysis, fingerprin
 
 These are only the files I decided to release publicly for free.
 
-For the full solver source, private research material, or additional information, contact me on Discord:
+For the full solver source, private research material, or additional information, contact me on Telegram:
 
 `@PushJoman21`
 
